@@ -1,0 +1,7 @@
+Zone,Name,Type,Content,TTL
+mechatron2694.com,mechatron2694.com.,SOA,ns1.luadns.net. hostmaster.luadns.com. 1591870053 1200 120 604800 3600,3600
+mechatron2694.com,mechatron2694.com.,NS,ns1.luadns.net.,86400
+mechatron2694.com,mechatron2694.com.,NS,ns2.luadns.net.,86400
+mechatron2694.com,mechatron2694.com.,NS,ns3.luadns.net.,86400
+mechatron2694.com,mechatron2694.com.,NS,ns4.luadns.net.,86400
+mechatron2694.com,www.mechatron2694.com.,A,192.168.244.173,86400
