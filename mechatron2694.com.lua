@@ -5,10 +5,10 @@
 -- _a = "mechatron2694.com"
 
 -- A records
-a(_a, "192.168.244.173")
+a(mechatron2694.com, "192.168.244.173")
 
 -- CNAME records
-cname("www", _a)
+cname("www", mechatron2694.com)
 
 -- CAA records
 caa("", "letsencrypt.org", "issue")
